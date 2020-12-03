@@ -1,5 +1,5 @@
 # Tech Details of Database
-    ## MySql
+    MySql
 
-#Tables
+# Tables
 -- List Goes Here 
