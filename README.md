@@ -8,4 +8,7 @@ A Web-portal / PWA application which is useful for maintenance of a Petrol Bunk 
     Node.js
   ## Database
     MySql
+
+
+-- Please look into `developer-details` folder for extra information.
    
