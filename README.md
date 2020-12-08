@@ -5,7 +5,7 @@ A Web-portal / PWA application which is useful for maintenance of a Petrol Bunk 
   ## Front-End
     Vue.js
   ## Back-end
-    Node.js
+    Java (Spring Boot)
   ## Database
     MySql
 
