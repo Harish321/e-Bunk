@@ -63,8 +63,8 @@
         <dependency>
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
-            <scope>runtime</scope>
         </dependency>
+
         <dependency>
             <groupId>com.playtika.testcontainers</groupId>
             <!-- testcontainers-spring-boot doesn't support mysql yet -->
