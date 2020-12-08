@@ -1,5 +1,5 @@
 # Tech Details for Server
-    Node.js
+    JAVA (Spring Boot)
 # To-Do
-    [] OAuth 2.0 implementation - `04/12/2020`
- 
+    [x] CRUD Operations Implementations  - 08/12/2020
+    [ ] Search API's                     - 10/12/2020
